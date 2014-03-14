@@ -1,5 +1,5 @@
 define([
-	"./locales/de.js"
+	"./locales/zh.js"
 ], function() {
 	var locales = {};
 	for(index in arguments)
