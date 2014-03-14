@@ -1,8 +1,8 @@
 define({
 	"zh": {
-		"Compare all with predecessor": "使用预处理比较", 
+		"Compare all with predecessor": "预先比较所有", 
 		"compare changes to:"         : "比较变更:",
-		"compared to"                 : "比较",
+		"compared to"                 : "对比",
 		"Default value:"              : "默认值:",
 		"Description"                 : "描述",
 		"Field"                       : "字段",
