@@ -6,7 +6,7 @@ define({
 		"Default value:"              : "默认值:",
 		"Description"                 : "描述",
 		"Field"                       : "字段",
-		"General"                     : "一般",
+		"General"                     : "概括",
 		"Generated with"              : "生成工具",
 		"Name"                        : "名称",
 		"No response values."         : "无响应值.",
